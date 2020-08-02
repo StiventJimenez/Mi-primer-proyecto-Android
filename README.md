@@ -1,2 +1,3 @@
 # Mi-primer-proyecto-Android
-Hola! Este es mi primer proyecto de Android.
+
+Mi nombre es Stivent Jimenez y este sera mi primer proyecto que subo.
